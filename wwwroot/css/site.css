@@ -67,3 +67,10 @@ a, .btn-link {
         content: "An error has occurred."
     }
 /* colocar css*/
+
+
+hr {
+    border: 0;
+    height: 2px;
+    background: #808080;
+}
