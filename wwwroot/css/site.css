@@ -67,10 +67,23 @@ a, .btn-link {
         content: "An error has occurred."
     }
 /* colocar css*/
-
-
+body{
+    font-family:Arial;
+}
+.foto {
+    width: 200px; /* largura da imagem */
+    height: auto; 
+    border-radius: 10px; 
+    float: right;
+    margin-left: 3px;
+}
+.cabecalho {
+    overflow: hidden;
+    max-width: 70%;
+}
 hr {
     border: 0;
     height: 2px;
     background: #808080;
 }
+
